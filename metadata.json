@@ -1,0 +1,6 @@
+{
+  "name": "Nếu Con Là Mẹ Trong Một Ngày",
+  "description": "Ứng dụng tương tác 20/10 chủ đề 'Nếu Con Là Mẹ Trong Một Ngày' tích hợp kiến thức KHTN Bài 19 và giọng đọc AI Leda chuẩn miền Bắc ngọt ngào, truyền cảm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
